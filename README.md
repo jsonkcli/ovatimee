@@ -16,16 +16,12 @@ Here are some ideas to get you started:
 ## 👋 Hello, I'm Jason!
 I'm a web developer in Chisinau, Moldova. Vim Enthusiast. If I'm not coding I either skating ##🛹 of playing the Piano.
 
-- 👯 Looking to collaborate on [Send: Email App with Email Template Presets](https://github.com/ovatimee/vimage)
+### 👯 Looking to collaborate on [Send: Email App with Email Template Presets](https://github.com/ovatimee/vimage)
 - 
-- 💬 Ask me about anything [here](https://github.com/beauwilliams/beauwilliams/issues)
+### 💬 Ask me about anything [here](https://github.com/beauwilliams/ovatimee/issues)
 
 
-🥺 @[Hire ME!!] CHECKOUT MY [PORTFOLIO](https://iamjay.dev) 
-
-<h1 align="center">
-  My Stats
-</h1>
+🥺 [Hire ME!!](https://iamjay.dev) CHECKOUT MY [PORTFOLIO](https://iamjay.dev) 
 
 
 <!--

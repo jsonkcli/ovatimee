@@ -18,7 +18,7 @@ I'm a web developer from South London. If I'm not coding I either skating 🛹 o
 
 ### 👯 Looking to collaborate on [Send: Email App with Email Template Presets](https://github.com/ovatimee/vimage)
 - 
-### 💬 Ask me about anything [here](https://github.com/beauwilliams/ovatimee/issues)
+### 💬 Ask me about anything [here](https://github.com/ovatimee/issues)
 
 
 🥺 [Hire ME!!](https://iamjay.dev) CHECKOUT MY [PORTFOLIO](https://iamjay.dev) 

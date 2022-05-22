@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hello, I'm Jason!
-I'm a web developer from South London. If I'm not coding I either skating 🛹 or playing the Piano.
+### I'm a web developer from South London. If I'm not coding I either skating 🛹 or playing the Piano.
 
 ### 👯 Looking to collaborate on [Send: Email App with Email Template Presets](https://github.com/ovatimee/vimage)
 - 

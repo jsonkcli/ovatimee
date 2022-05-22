@@ -29,10 +29,4 @@ I'm a web developer in Chisinau, Moldova. Vim Enthusiast. If I'm not coding I ei
 - 🔭 I'm working to improve gaming platform at EXNOA LLC.
 -->
 
-## 🌱 I’m learning GraphQL, ThreeJS and TypeScript.
-
-### 🌎 Find me on the web
-- 🐦 Tweeting my journey on [Twitter](https://twitter.com/nicubarbaros)
-
-### 📫 Get in touch
-- 📧 You can reach me at [Twitter](https://twitter.com/nicubarbaros) or [Linkedin](https://www.linkedin.com/in/nicubarbaros/)
+### 🌱 I’m learning GraphQL, ThreeJS and TypeScript.

@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hello, I'm Jason!
-### I'm a web developer from South London. If I'm not coding I'm either skating 🛹 or playing the Piano.
+#### I'm a web developer from South London. If I'm not coding I'm either skating 🛹 or playing the Piano.
 
-### 👯 Looking to collaborate on [My Upcoming Email App: Email App with Built In and Editable Email Templates]
+#### 👯 Looking to collaborate on [My Upcoming Email App: Email App with Built In and Editable Email Templates]
 
-### 💬 Ask me about anything [here](https://github.com/ovatimee/issues)
+#### 💬 Ask me about anything [here](https://github.com/ovatimee/issues)
 
 
 🥺 [Hire ME!!](https://iamjay.dev) CHECKOUT MY [PORTFOLIO](https://iamjay.dev) 

@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### 💬 Ask me about anything [here](https://github.com/ovatimee/issues)
 
 
-🥺 [Hire ME!!](https://iamjay.dev) CHECKOUT MY [PORTFOLIO](https://iamjay.dev) 
+<!--🥺 [Hire ME!!](https://iamjay.dev) CHECKOUT MY [PORTFOLIO](https://iamjay.dev)  -->
 
 
 <!--

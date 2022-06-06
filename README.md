@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hello, I'm Jason!
-#### 👨🏽‍💻 I'm a web developer and Vim Enthusiast. I love code, it even looks charming to my eye.
+#### 👨🏽‍💻 I'm a web developer and Vim Enthusiast. I love code, it even looks charming to my eye. 💎
 
 #### 👯 Looking to collaborate on [My Upcoming Email App: Email App with BuiltIn/Editable Professional Email Templates]
 

@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img src="kvskyblue.png" /></p>
+<p align="center"><img src="avatar.png" /></p>
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">A passionate Frontend Developer from London 🇬🇧</h3>
 

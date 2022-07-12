@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ecosse3&style=flat-square&color=2591F6" alt="ecosse3" /> </p>
 
 - 🔭 &nbsp; I’m currently working on [**Job Engine**](https://github.com/ovatimee/JobEngine) Where recruiters can post their Job listening and                             developers can also list themselves as available for hiring.
-- 🌱 &nbsp; I’m currently learning **Design in Figma**, **Three.js** and **TypeScript**
-- 💬 &nbsp; Ask me about **React.js**, **(Neo)Vim** and **Linux**
+- 🌱 &nbsp; I’m currently learning **WebGL**, **Three.js** and **TypeScript**
+- 💬 Ask me about anything [here](https://github.com/ovatimee/issues)
 - 📫 &nbsp; Reach me at **ovatimee@gmail.com**
+
 
 &nbsp;
 
@@ -42,23 +43,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/redux%20saga%20-%23999999.svg?&style=for-the-badge&logo=redux-saga&logoColor=white" />
   <img src="https://img.shields.io/badge/manjaro%20-%2335BF5C.svg?&style=for-the-badge&logo=manjaro&logoColor=white" />
 </p>
-
-
-<!---
-
-## 👋 Hello, I'm Jason!
-#### 👨🏽‍💻 I'm a web developer and Vim Enthusiast. 💎
-
-#### 👯 Looking to collaborate on [My Upcoming Email App: Email App with BuiltIn/Editable Professional Email Templates]
-
-#### 💬 Ask me about anything [here](https://github.com/ovatimee/issues)
-
-
-🥺 [Hire ME!!](https://iamjay.dev) CHECKOUT MY [PORTFOLIO](https://iamjay.dev)
-
-
-### 😄 About me 
-- 🔭 I'm working to improve gaming platform at EXNOA LLC.
--->
-
-### 🌱 I’m learning GraphQL, ThreeJS and TypeScript.

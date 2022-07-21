@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ecosse3&style=flat-square&color=2591F6" alt="ecosse3" /> </p>
 
 - 🔭 &nbsp; I’m currently working on [**Job Engine**](https://github.com/ovatimee/JobEngine) Where recruiters can post their Job listening and                             developers can also list themselves as available for hiring.
-- 🌱 &nbsp; I’m currently learning **WebGL**, **Three.js** and **TypeScript**
+- 🌱 &nbsp; I’m currently learning **Three.js**, **Shader(WLSL)** and **TypeScript**
 - 💬 Ask me about anything [here](https://github.com/ovatimee/issues)
 - 📫 &nbsp; Reach me at **ovatimee@gmail.com**
 

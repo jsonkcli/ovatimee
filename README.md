@@ -40,6 +40,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/react%20native%20-%231CAACE.svg?&style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/redux%20-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/redux%20saga%20-%23999999.svg?&style=for-the-badge&logo=redux-saga&logoColor=white" />
-  <img src="https://img.shields.io/badge/manjaro%20-%2335BF5C.svg?&style=for-the-badge&logo=manjaro&logoColor=white" />
 </p>

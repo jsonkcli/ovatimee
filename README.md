@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="avatar.png" /></p>
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">A Frontend Developer and Vim Enthusiast</h3>
+<h3 align="center">Creative FullStack Engineer</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jason-clinton-63a593242/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lukasz-kurpiewski" height="30" width="30" /></a>

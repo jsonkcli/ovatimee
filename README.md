@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/ddiabts" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Ovatimee" height="30" width="30" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ecosse3&style=flat-square&color=2591F6" alt="ecosse3" /> </p>
 
 - 🔭 &nbsp; I'm currently developing [**Job Engine**](https://github.com/ovatimee/JobEngine)  where hiring managers can publish open positions and coders can declare their availability for employment.
 - 🌱 &nbsp; I’m currently learning **Three.js**, **Shader(GLSL)** and **TypeScript**

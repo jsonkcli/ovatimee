@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="avatar.png" /></p>
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">Creative FullStack Engineer</h3>
+<h3 align="center">FullStack Engineer (Web/Mobile)</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jason-clinton-63a593242/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jason-clinton" height="30" width="30" /></a>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 
-- 🔭 &nbsp; I'm currently developing [**Job Engine**](https://github.com/ovatimee/JobEngine)  where hiring managers can publish open positions and coders can declare their availability for employment.
+- 🔭 &nbsp; I'm currently developing [**Job Engine**] a platform for hiring managers.
 - 🌱 &nbsp; I’m currently learning **Three.js**, **Shader(GLSL)** and **TypeScript**
 - 💬 Ask me about anything [here](https://github.com/ovatimee/issues)
 - 📫 &nbsp; Reach me at **ovatimee@gmail.com**

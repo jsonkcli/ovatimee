@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 &nbsp; I'm currently developing [**Job Engine**] a platform for hiring managers.
-- 🌱 &nbsp; I’m currently learning **Three.js**, **Shader(GLSL)** and **TypeScript**
+- 🌱 &nbsp; I’m currently learning **Three.js** and **Shader(GLSL)**
 - 💬 Ask me about anything [here](https://github.com/ovatimee/issues)
 - 📫 &nbsp; Reach me at **ovatimee@gmail.com**
 
